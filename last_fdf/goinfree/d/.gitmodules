@@ -1,3 +1,0 @@
-[submodule "01_dockerfiles/ex02/app"]
-	path = 01_dockerfiles/ex02/app
-	url = https://bitbucket.org/railstutorial/sample_app_4th_ed.git
